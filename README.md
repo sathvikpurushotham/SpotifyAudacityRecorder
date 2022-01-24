@@ -1,5 +1,5 @@
 # SpotifyAudacityRecorder
-Automate recording spotify songs through audacity
+Automate recording spotify songs through audacity using pyautogui and spotify API's.
 
 ## Steps
 - Create a shortcut for saving mp3 files in audacity before running this program
